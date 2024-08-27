@@ -1,5 +1,5 @@
 
-# Documentation for Search, Sort, Filter, and Pagination Implementation
+# Documentation for Search, Filter, Sort and Pagination Implementation
 
 This documentation provides a step-by-step guide for implementing search, sort, filter, and pagination functionality using Prisma. The functionality is wrapped in an asynchronous function, making it easy to handle HTTP requests and database queries efficiently.
 
